@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setOutput(output + "7")}>7</button>
         <button onClick={() => setOutput(output + "8")}>8</button>
         <button onClick={() => setOutput(output + "9")}>9</button>
-        <button onClick={() => setOutput(eval(output) + "÷")}>÷</button>
+        <button onClick={() => setOutput(eval(output) + "/")}>÷</button>
         <button onClick={() => setOutput(output + "4")}>4</button>
         <button onClick={() => setOutput(output + "5")}>5</button>
         <button onClick={() => setOutput(output + "6")}>6</button>
