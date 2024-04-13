@@ -1,1 +1,1 @@
-[![ALT text](https://www.w3schools.io/file/markdown-images/)]()
+![ALT text](assets/image0.jpg)
